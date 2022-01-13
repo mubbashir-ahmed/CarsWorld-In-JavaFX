@@ -12,6 +12,6 @@ User Interface features:
 3. Cost Calculator
 
 ***Development Team:**
-Mubbashir Ahmed
-Muhammad Talha Ahmed
+Mubbashir Ahmed,
+Muhammad Talha Ahmed,
 Muhammad Saqib*
