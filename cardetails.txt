@@ -1,0 +1,20 @@
+Honda,City,Hatchback,2015,2500000
+Honda,City,Hatchback,2020,3000000
+Honda,City,Sedan,2021,3200000
+Honda,Civic,Sedan,2020,3000000
+Honda,Civic,Sedan,2021,3600000
+Honda,Accord,Sedan,2005,2400000
+Honda,Vezel Hybrid Z,SUV,2014,3200000
+Honda,Vezel Hybrid Z,SUV,2017,4700000
+Honda,Vezel Hybrid RS,SUV,2016,4250000
+Kia,Picanto,Hatchback,2021,2000000
+Kia,Sportage,SUV,2021,4600000
+Kia,Sorento,SUV,2021,7000000
+Kia,Grand Carnival,SUV,2021,8700000
+Toyota,Corolla GLi 1.3,Sedan,2018,3000000
+Toyota,Altis Grande 1.8,Sedan,2016,3000000
+Toyota,Altis Grande 1.6,Sedan,2016,2800000
+Toyota,Altis Grande 1.8,Sedan,2016,3000000
+Toyota,Corolla X,Sedan,2021,4000000
+Toyota,Yaris,Sedan,2021,3000000
+Toyota,Fortuner,SUV,2021,8000000

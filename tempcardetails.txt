@@ -1,0 +1,17 @@
+Honda,City,Sedan,2015,2500000
+honda,accord,sedan,2021,3620000
+honda,accord,sedan,2021,3620000
+honda,pilot,sedan,2021,3620000
+honda,pilot,sedan,2021,3620000
+honda,pilot2,sedan,2021,3620000
+honda,pilot2,sedan,2021,3620000
+honda,pilot4,sedan,2021,3620000
+honda,pilot4,sedan,2021,3620000
+honda,pilot4,sedan,2021,3620000
+honda,pilot4,sedan,2021,3620000
+honda,pilot5,sedan,2021,3620000
+honda,pilot5,sedan,2021,3620000
+kia,picanto,Sedan,2021,3200000
+kia,picanto,Sedan,2021,3200000
+toyota,corolla,Sedan,2021,3200000
+toyota,corolla,Sedan,2021,3200000
