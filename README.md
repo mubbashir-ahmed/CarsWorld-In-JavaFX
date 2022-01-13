@@ -1,5 +1,9 @@
 # CarsWorld
 CarsWorld - A Car Showroom Data Management System developed using JavaFX.
+***Development Team:**
+Mubbashir Ahmed,
+Muhammad Talha Ahmed,
+Muhammad Saqib*
 
 ## Features:
 Admin Interface features:
@@ -11,8 +15,3 @@ User Interface features:
 2. View all cars data
 3. Cost Calculator
 4. Feedback
-
-***Development Team:**
-Mubbashir Ahmed,
-Muhammad Talha Ahmed,
-Muhammad Saqib*
