@@ -10,6 +10,7 @@ User Interface features:
 1. Search car with respect to its model and brand name
 2. View all cars data
 3. Cost Calculator
+4. Feedback
 
 ***Development Team:**
 Mubbashir Ahmed,
